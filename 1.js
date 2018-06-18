@@ -11,3 +11,5 @@ var sortByStrings = function(s,t) {
 }
 
 sortByStrings("weather", "therapyw");
+
+//test
